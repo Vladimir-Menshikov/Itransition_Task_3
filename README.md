@@ -1,1 +1,2 @@
-# Itransition_Task_4
+# Simple console rock-paper-scissors game
+## How to run: java -jar Main.jar
